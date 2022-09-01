@@ -1,0 +1,35 @@
+.listGroup {
+  margin: 15px 0;
+}
+
+.taskItem {
+  display: flex;
+  padding: 4px 0;
+  border-radius: 5px;
+}
+
+.deleteBinIcon {
+  display: flex;
+  width: 45px;
+}
+
+.taskText {
+  width: 100%;
+  text-align: left;
+  border-radius: 5px;
+  font-size: 18px;
+}
+
+.inputGroup:focus,
+.inputGroup:active {
+  box-shadow: none;
+  border: none;
+}
+
+.error {
+  background-color: #986c6c;
+  color: #561515;
+  border-radius: 5px;
+  font-size: 19px;
+  margin-top: 20px;
+}
