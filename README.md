@@ -1,5 +1,7 @@
 # To-Do List Application
 
+## Simple To-Do List application that shows an error if the number of tasks is more than 10.
+
 ![todolist](src/assets/gifs/todolist.gif)
 
 > After you cloned the application to your computer, in the project directory run
